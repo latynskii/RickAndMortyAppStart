@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "2235a22ca249199cb736237f4bb9cc12b6ed416a",
+        "version" : "7.3.0"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "07c5d1f6044701d97e94dc11157259e8811977be"
+      }
+    }
+  ],
+  "version" : 2
+}
